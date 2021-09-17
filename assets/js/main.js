@@ -46,10 +46,10 @@ const app = Vue.createApp({
         ],
         stage3: [
           false, // 3-1
-        ]
+        ],
         stage4: [
           false, // 4-1
-        ]
+        ],
         stage5: [
           false, // 5-1
         ]
