@@ -25,10 +25,10 @@ const app = Vue.createApp({
         },
         stage3: {
           q1: 'とけい',
-        }
+        },
         stage4: {
           q1: '東',
-        }
+        },
         stage5: {
           q1: '109',
         }
@@ -39,19 +39,19 @@ const app = Vue.createApp({
       */
       answer: {
         stage1: [
-          false,
+          false, // 1-1
         ],
         stage2: [
-          false,
+          false, // 2-1
         ],
         stage3: [
-          false, 
+          false, // 3-1
         ]
         stage4: [
-          false, 
+          false, // 4-1
         ]
         stage5: [
-          false, 
+          false, // 5-1
         ]
       },
 
